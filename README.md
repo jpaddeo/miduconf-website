@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/hero.png" alt="Astro logo">
+  <a href="https://miduconf.com" target="_blank"><img src="assets/hero.png" alt="miduconf hero"></a>
   <br/><br/>
   Descubre las últimas tendencias de desarrollo y programación web de la mano de gente tremenda y GRATIS.
   <br/><br/>
@@ -9,7 +9,7 @@
 
 <table>
   <tbody>
-    <tr>
+	<tr>
       <td align="center"><a href="https://utm.io/udih1#gh-light-mode-only" target="_blank"><img width="147" height="40" src="assets/algolia.svg#gh-light-mode-only" alt="Algolia" /></a><a href="https://utm.io/udih1#gh-dark-mode-only" target="_blank"><img width="147" height="40" src="assets/algolia-dark.svg#gh-dark-mode-only" alt="Algolia" />
       </a></td>
       <td align="center"><a href="https://midu.link/api#gh-light-mode-only" target="_blank"><img width="150" height="34" src="assets/rapidapi.svg#gh-light-mode-only" alt="RapidApi" /></a><a href="https://midu.link/api#gh-dark-mode-only"><img width="150" height="34" src="assets/rapidapi-dark.svg#gh-dark-mode-only" alt="RapidApi" />
